@@ -76,18 +76,18 @@ const data = {
         {
             "text": "Researchdocument",
             "title": "Mijn PDF met research",
-            "href": "Opdracht 3- Website Waterflessen Portfolio boek"
+            "href": "./assignments/assignment3/documents/a3-research.pdf",
             "target": "_blank"
         },
         {
             "text": "Adobe XD (met Wireframes)",
             "title": "Mijn Adobe XD document met de wireframes van mijn applicatie",
-            "href": "Wireframes Mobiel-desktop",
+            "href": "./assignments/assignment3/documents/a3-wireframes.xd",
         },
         {
             "text": "Adobe XD (met Visual Designs)",
             "title": "Mijn Adobe XD document voor de visual designs van mijn applicatie",
-            "href": "Mobiel en desktop design ",
+            "href": "./assignments/assignment3/documents/a3-visual-designs.xd",
         },
         {
             "text": "Website",
